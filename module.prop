@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=aospmedia
+name=AOSP Oreo Media Systemless
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=David Sn (@divadsn) & TadiT7
+description=Installs AOSP Oreo Media taken from Nokia 7 Plus dump, systemlessly.
 minMagisk=1500
